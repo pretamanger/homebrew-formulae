@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-brew tap gscalzo/formulae
+brew tap pretamanger/formulae
 ```
 
 ## Available Taps
